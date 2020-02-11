@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\User\Desktop\Barnsley\Barnsley\main.cpp(281,28): warning C4244: "argument": konwersja z "_Rep" do "unsigned int", możliwa utrata danych
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+  Barnsley.vcxproj -> C:\Users\User\Desktop\Barnsley\x64\Debug\Barnsley.exe
